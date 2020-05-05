@@ -1,0 +1,246 @@
+body {
+	font-family: 'Cormorant Garamond', serif;
+
+}
+
+p {
+	font-size: 0.9375rem;
+}
+
+
+#myBtn {
+  display: none;
+  position: fixed;
+  bottom: 20px; 
+  right: 30px; 
+  z-index: 99; 
+  border: none; 
+  outline: none; 
+  background-color: #bfbfbf; 
+  color: white; 
+  cursor: pointer; 
+  padding: 15px;
+  border-radius:
+  font-size: 18px;
+}
+
+#myBtn:hover {
+  background-color: #555;
+}
+
+/*  TITLES */
+
+.main-page-title {
+	font-family: 'Playfair Display SC', serif;
+	font-size: 2.8125rem;
+	
+}
+
+.section-title {
+	font-family: 'Playfair Display SC', serif;
+	font-size: 2.8125rem;
+}
+
+/*  NAVS  */
+
+.nav-style {
+	color: #4d4d4d;
+	font-size: 0.9375rem;
+
+}
+
+.nav-style:hover {
+	color: black;
+	border-bottom: 0.0625rem solid  black;
+}
+
+.nav-content {
+	border-bottom: 0.0625rem solid  #e6e6e6;
+}
+
+.nav-a:hover {
+	background-color: white;
+	border-bottom: 0;
+}
+
+/*  DIVS */
+
+.name-page {
+	padding-left: 42%;
+}
+
+.section-page {
+	margin-top: 2.5rem;
+	background-color: #f2f2f2;
+}
+ 
+
+/* IMAGES */
+
+
+/* INPUT  */
+
+.searchInput {
+	color: #4d4d4d;
+	font-size: 0.9375rem;
+	text-align: center;
+	border: 0.0625rem solid #cccccc;
+	border-radius: 2.5rem;
+}
+
+.searchInput:hover {
+	border-color: black;
+}
+
+.searchInput:link {
+	
+
+}
+
+
+/* BUTTONS */
+
+
+.searchButton {
+	color: #4d4d4d;
+	text-align: center;
+	font-size: 0.9375rem;
+	padding: 5%;
+	border: 0.0625rem solid white;
+	border-radius: 2.5rem;
+}
+
+
+.btnDiscover {
+	color: white;
+	background-color: inherit;
+	font-size: 1rem;
+	border: 0.0625rem solid white;
+	border-radius: 2.5rem;
+	margin-bottom: 2%;
+	padding: 0.125rem 1.875rem 0.125rem 1.875rem;
+	position: relative;
+}
+
+.btnDiscover:hover {
+	color: #595959;
+	background-color: #f2f2f2;
+}
+
+.btnDetails {
+	color: #4d4d4d;
+	background-color: inherit;
+	font-size: 0.775rem;
+	border: 0.0625rem solid #4d4d4d;
+	border-radius: 2.5rem;
+	margin-bottom: 2%;
+	position: relative;
+}
+
+.btnDetails:hover {
+	color: black;
+}
+
+/*  CAROUSEL */
+
+
+.img-carousel {
+	display: flex;
+	max-height: 46.875rem;
+}
+
+.carousel-style {
+	margin-top: 1.5625rem;
+}
+
+.carousel-names {
+    text-shadow: 0.25rem 0.25rem 0.375rem #262626;
+}
+/*                     */ 
+/*     CATEGORIES      */
+/*                     */
+/*
+
+/* DIVS  */
+
+
+/*  INPUTS */
+/*
+.form-control-style {
+	max-width: 20rem;
+}
+
+
+/* FOOTER */
+
+input[type=text], input[type=submit], button[type=submit] {
+  width: 70%;
+  padding: 7px;
+  margin: 8px 0;
+  display: inline;
+  border: 1px solid #ccc;
+  border-radius: 40px;
+}
+
+input[type=checkbox] {
+  margin-top: 16px;
+}
+
+input[type=submit], button[type=submit] {
+  background-color: #595959;
+  color: white;
+  border: none;
+}
+
+button[type=submit]:hover {
+  opacity: 0.8;
+}
+
+
+.footerStyleFluide {
+   background-color: #f2f2f2;
+}
+
+.footerStyle {
+	margin-top: 70px;
+	margin-bottom: 30px;
+	text-align: right;
+}
+
+.divColStyle {
+	margin-top: 30px;
+}
+
+.subscribeInput {
+	padding-right: 15px;
+
+}
+
+.subscribeButton {
+	color: white;
+	border: none;
+	border-radius: 40px;
+	padding: 5px 15px;
+	background-color: #262626;
+}
+
+.subscribeButton:hover {
+	opacity: 0.8;
+}
+
+
+
+.about-style {
+	color: #737373;
+	font-size: 17px;
+
+}
+
+ .about-style:hover {
+ 	color: black;
+ 	text-decoration: underline;
+ }
+
+ .pFooter {
+ 	color: #737373;
+ }
