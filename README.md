@@ -1,1 +1,3 @@
 # Jewelry-Project
+
+Awesome project.
