@@ -1,3 +1,4 @@
 # Jewelry-Project
 
-Awesome project.
+An Awesome project.
+I my project I used HTML, CSS, JavaScript & Bootstrap.
