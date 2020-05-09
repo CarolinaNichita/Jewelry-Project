@@ -16,9 +16,9 @@ p {
   z-index: 99; 
   border: none; 
   outline: none; 
-  background-color: #0bcc3567; 
+  background-color: #0bcc35da; 
   color: white; 
-  cursor: pointer; 
+  cursor: pointer;
   padding: 15px;
   border-radius:
   font-size: 18px;
