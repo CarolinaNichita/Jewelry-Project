@@ -1,3 +1,4 @@
+
 $('.owl-carousel').owlCarousel({
         autoplay: true,
         autoplayHoverPause: true,
@@ -7,3 +8,5 @@ $('.owl-carousel').owlCarousel({
         loop: true,
         dots: 3
       });
+
+
